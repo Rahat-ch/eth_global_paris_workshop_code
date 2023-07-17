@@ -1,5 +1,5 @@
 
-# Node JS + Typescript Starter 
+# Wormhole Hackathon Starter
 
 This is a basic starter kit to create Node JS scripts with Typescript. It includes only a script for development and is meant for educational puproses. You will need additional scripts to optimize for production.
 
