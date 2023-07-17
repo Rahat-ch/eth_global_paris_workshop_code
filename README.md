@@ -14,7 +14,12 @@ Clone this repository and then run
 
 Alternatively you can use `npm` or `pnpm` if that suits you. 
 
-The main purpose of this repository is to serve as the starting point for the Biconomy SDK Quick Start guide. 
+To run current scripts in src/index.js:
+```bash
+yarn dev
+```
+
+This repository is example code shared at Wormhole Enclode Club Hackathon in Paris. 
 
 
 

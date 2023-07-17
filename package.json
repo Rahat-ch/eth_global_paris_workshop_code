@@ -15,5 +15,13 @@
     "nodemon": "^2.0.22",
     "ts-node": "^10.9.1",
     "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@biconomy/account": "^3.0.0-alpha.0",
+    "@biconomy/bundler": "^3.0.0-alpha.0",
+    "@biconomy/common": "^3.0.0-alpha.0",
+    "@biconomy/core-types": "^3.0.0-alpha.0",
+    "@biconomy/paymaster": "^3.0.0-alpha.0",
+    "ethers": "5.7.2"
   }
 }
